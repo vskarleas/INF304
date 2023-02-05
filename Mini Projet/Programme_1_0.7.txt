@@ -1,0 +1,12 @@
+Programme : { 1 M { G 1 M {  } { A D} ? } { A } ? C ! } C !
+Nombre de terrains testés : 20
+Dimensions des terrains : 9x9
+Densité d'obstacle : 0.700000
+
+Le robot est resté bloqué 15.000001% du temps soit 3 fois.
+
+Le robot est sorti 85.000000% du temps soit 17 fois. Il a fait en moyenne 134.117645 pas.
+
+Le robot est tombé dans l'eau 0.000000% du temps soit 0 fois.
+
+Le robot s'est écrasé contre un rocher 0.000000% du temps soit 0 fois.

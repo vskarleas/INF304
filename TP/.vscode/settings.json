@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "type_pile.h": "c",
+        "type_pile_erreurs.h": "c"
+    }
+}
